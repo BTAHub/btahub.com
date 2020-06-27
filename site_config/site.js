@@ -72,9 +72,14 @@ export default {
         link: '/zh-cn/index.html',
       },
       {
-        key: 'docs',
-        text: '资料库',
-        link: '/zh-cn/docs/demo1.html',
+        key: 'docs-tech',
+        text: '技术',
+        link: '/zh-cn/docs/technology/demo1.html',
+      },
+      {
+        key: 'docs-app',
+        text: '应用',
+        link: '/zh-cn/docs/application/demo2.html',
       },
       {
         key: 'blog',
@@ -83,7 +88,7 @@ export default {
       },
       {
         key: 'community',
-        text: '活动',
+        text: '社区',
         link: '/zh-cn/community/index.html',
       },
     ],
